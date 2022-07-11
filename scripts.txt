@@ -1,0 +1,5 @@
+- Execute flask app
+FLASK_ENV=development FLASK_APP=algotradingtier0/app.py flask run
+
+- Execute pytest
+pytest tests/ -v
